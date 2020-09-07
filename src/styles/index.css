@@ -1,0 +1,27 @@
+@import './tailwind.css';
+
+.Toastify__toast-container {
+  width: auto;
+  padding: 0;
+  height: auto;
+  margin-top: 57px;
+}
+
+.Toastify__toast--default {
+  width: auto;
+  padding: 0;
+  height: auto;
+}
+
+.Toastify__toast {
+  min-height: inherit;
+  width: auto;
+  padding: 0;
+  height: auto;
+}
+
+.Toastify__toast-body {
+  width: auto;
+  padding: 0;
+  height: auto;
+}
